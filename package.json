@@ -17,7 +17,7 @@
     "leaflet-heatmap": "^1.0.0",
     "leaflet-velocity": "^1.2.3",
     "leaflet.heat": "^0.2.0",
-    "papaparse": "^4.3.6",
+    "papaparse": "^5.3.0",
     "turf": "^3.0.14",
     "vue": "^2.4.2"
   },

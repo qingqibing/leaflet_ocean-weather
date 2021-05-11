@@ -2,20 +2,20 @@
 # yarn lockfile v1
 
 
-"@turf/destination@^4.6.0":
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/@turf/destination/-/destination-4.6.0.tgz#3d4759e85ea79bdc4c93ae2529f959baef6aeedd"
+"@turf/destination@^4.7.3":
+  version "4.7.3"
+  resolved "https://registry.yarnpkg.com/@turf/destination/-/destination-4.7.3.tgz#f1ea3bb3705cf52fed135a7917d49336e47b8d2e"
   dependencies:
-    "@turf/helpers" "^4.6.0"
-    "@turf/invariant" "^4.6.0"
+    "@turf/helpers" "^4.7.3"
+    "@turf/invariant" "^4.7.3"
 
-"@turf/helpers@^4.6.0":
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/@turf/helpers/-/helpers-4.6.0.tgz#12398733b8ae28420df6166fa44c7ee8ffd6414c"
+"@turf/helpers@^4.7.3":
+  version "4.7.3"
+  resolved "https://registry.yarnpkg.com/@turf/helpers/-/helpers-4.7.3.tgz#bc312ac43cab3c532a483151c4c382c5649429e9"
 
-"@turf/invariant@^4.6.0":
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/@turf/invariant/-/invariant-4.6.0.tgz#ba61401d537543f81ccfc588e12bb0d8e653dd80"
+"@turf/invariant@^4.7.3":
+  version "4.7.3"
+  resolved "https://registry.yarnpkg.com/@turf/invariant/-/invariant-4.7.3.tgz#538f367d23c113fc849d70c9a524b8563874601d"
 
 balanced-match@^1.0.0:
   version "1.0.0"
@@ -156,8 +156,8 @@ is-symbol@^1.0.1:
   resolved "https://registry.yarnpkg.com/is-symbol/-/is-symbol-1.0.1.tgz#3cc59f00025194b6ab2e38dbae6689256b660572"
 
 lodash@^4.17.4:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
 
 make-dir@^1.0.0:
   version "1.0.0"
